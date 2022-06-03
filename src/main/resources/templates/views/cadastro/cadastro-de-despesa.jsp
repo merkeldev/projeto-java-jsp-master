@@ -18,6 +18,17 @@
     </script>
 </head>
 <body>
-essa é a a pagina de cadastro de despesa
+    <nav class="navbar navbar-inverse navbar-static-top"></nav>
+    <form class="form-horizontal">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h1 class="panel-title"> Nova Despesa </h1>
+            </div>
+        </div>
+
+
+    </form>
+
+
 </body>
 </html>
